@@ -17,7 +17,7 @@ In this step, you add controls, such as a <xref:System.Windows.Forms.PictureBox>
 
 ## How to add controls to your form
 
-1. Choose the **Toolbox** tab on the left side of the Visual Studio IDE (or press **Ctrl**+**Alt**+**X**), and then expand the **Common Controls** group. This shows the most common controls that you see on forms.
+1. Choose the **Toolbox** tab on the left side of the Visual Studio IDE (or press **Ctrl**+**Alt**+**X**), and then expand the **Common Windows Forms** group. This shows the most common controls that you see on forms.
 
 1. Double-click the **PictureBox** item to add a PictureBox control to your form. Because the TableLayoutPanel is docked to fill your form, the IDE adds the PictureBox control to the first empty cell (the upper left corner).
 
